@@ -1,0 +1,20 @@
+Event 0:  AUDIOD
+Event 1:  join voip
+Event 2:  CHAT
+Event 3:  AUDIOD
+Event 4:  AUDIOD
+Event 5:  join voip
+Event 6:  CHAT
+Event 7:  AUDIOD
+Event 8:  AUDIOD
+Event 9:  join voip
+Event 10:  CHAT
+Event 11:  AUDIOD
+Event 12:  AUDIOD
+Event 13:  join voip
+Event 14:  CHAT
+Event 15:  AUDIOD
+Event 16:  AUDIOD
+Event 17:  join voip
+Event 18:  CHAT
+Event 19:  AUDIOD

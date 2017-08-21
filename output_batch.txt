@@ -1,0 +1,52 @@
+
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  LASTEVENT
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  AUDIOD
+Event :  CHAT
+Event :  AUDIOD
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  AUDIOD
+Event :  CHAT
+Event :  LASTEVENT
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
+Event :  AUDIOD
+Event :  AUDIOD
+Event :  CHAT
+Event :  AUDIOD
+Event :  AUDIOD
+Event :  join voip
+Event :  AUDIOD
+Event :  AUDIOD
+Event :  join voip
+Event :  CHAT
